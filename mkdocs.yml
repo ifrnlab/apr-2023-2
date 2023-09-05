@@ -1,0 +1,22 @@
+site_name: Aplicação de Redes de Computadores
+site_author: Fulano de Tal
+
+theme:
+  name: material
+  language: pt
+
+repo_name: ifrnlab/apr-2023-2
+repo_url: https://ifrnlab.github.io/apr-2023-2/
+edit_uri: edit/main/docs/
+
+nav:
+- index.md
+- pedra.md
+- papel.md
+- tesoura.md
+- Ensaios:
+  - ensaios/mermaid.md
+
+plugins:
+- mermaid2
+
